@@ -27,7 +27,7 @@
             {
                 listeningSetting.LocalUrl = "http://localhost:5001";
                 listeningSetting.RemoteUrl = "http://www.baidu.com";
-                listeningSetting.SecretKey = "1211";
+                listeningSetting.SecretKey = "1234";
             });
 ```
 ### 参数说明
